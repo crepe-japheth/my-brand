@@ -93,6 +93,7 @@
     }
     
     .main-content>button,
+    .comment-post>form>button,
     .about-content>button,
     .my-work-section>.cards>.card>.card-content>button,
     .contact-form>form>button,
