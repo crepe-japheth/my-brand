@@ -476,7 +476,7 @@
     }
     /* admin posts styling */
     
-    .dashboard-posts>table {
+    .dashboard-posts>div>table {
         margin-top: 8%;
         margin-left: 5%;
         width: 100%;
@@ -512,7 +512,7 @@
         background-color: rgb(6, 148, 101);
     }
     
-    .dashboard-posts>table>tr>td {
+    .dashboard-posts>div>table>tr>td {
         display: block;
         margin: 1rem;
     }
@@ -581,9 +581,9 @@
             font-size: 1rem;
             margin: .1rem;
         }
-        .dashboard-posts>table {
+        .dashboard-posts>div>table {
             margin-left: .1rem;
-            width: 50%;
+            width: 100%;
             font-size: .9rem;
             padding: .3rem;
         }
@@ -593,6 +593,13 @@
         }
         .blog-detail {
             margin-left: 4%;
+        }
+        .dashboard-create-post>form {
+            margin: 25% 0 0 20%;
+        }
+        .dashboard-create-post>form>input,
+        .dashboard-create-post>form>textarea {
+            width: 100%;
         }
     }
     
@@ -724,13 +731,25 @@
         .dashboard-create-post>form {
             margin: 25% 0 0 1rem;
         }
+        .dashboard-create-post>form>input,
+        .dashboard-create-post>form>textarea {
+            width: 100%;
+        }
+        .dashboard-posts>h1>a {
+            padding: .5rem;
+            margin: .1rem;
+            float: none;
+        }
+        .dashboard-posts>div {
+            overflow-x: auto;
+        }
     }
     
     @media (max-width: 435px) {
         .dashboard-card>.progress-bar {
             width: 30rem;
         }
-        .dashboard-posts>table {
+        .dashboard-posts>div>table {
             margin-left: .1rem;
             width: 30rem;
             font-size: .7rem;
