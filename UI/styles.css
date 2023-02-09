@@ -478,7 +478,7 @@
     
     .dashboard-posts>table {
         margin-top: 8%;
-        margin-left: 10%;
+        margin-left: 5%;
         width: 100%;
         box-shadow: 0 .4rem .8rem 0 #777;
         font-size: 2rem;
@@ -582,8 +582,8 @@
             margin: .1rem;
         }
         .dashboard-posts>table {
-            margin-left: 1%;
-            width: 100%;
+            margin-left: .1rem;
+            width: 50%;
             font-size: .9rem;
             padding: .3rem;
         }
@@ -602,13 +602,19 @@
         }
         .nav {
             flex-direction: column;
+            /* background-color: #7cc529; */
         }
         .nav>.login-sign-btn {
             display: none;
             position: absolute;
-            right: 0;
-            top: 30rem;
-            display: none;
+            right: -2px;
+            top: 26rem;
+            /* display: none; */
+        }
+        .nav>.login-sign-btn>a {
+            padding-top: 7rem;
+            padding-left: 4.3rem;
+            /* padding-right: 2rem; */
         }
         .nav>ul {
             position: absolute;
@@ -703,9 +709,6 @@
         aside>.profile>a>img {
             margin-top: 10%;
         }
-        .dashboard-posts>table {
-            margin-left: .1rem;
-        }
         .blog-detail {
             flex-direction: column;
             margin-right: .1rem;
@@ -721,11 +724,20 @@
         .recent>.recent-post {
             flex-direction: column;
         }
+        .dashboard-create-post>form {
+            margin: 25% 0 0 1rem;
+        }
     }
     
     @media (max-width: 435px) {
         .dashboard-card>.progress-bar {
             width: 30rem;
+        }
+        .dashboard-posts>table {
+            margin-left: .1rem;
+            width: 30rem;
+            font-size: .7rem;
+            padding: .1rem;
         }
     }
     
