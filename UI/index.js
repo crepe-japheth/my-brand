@@ -1,6 +1,9 @@
+'use strict';
+
 const btn = document.querySelector(".toggle");
 const nav = document.querySelector(".admin-nav");
-console.log(btn)
+const blogForm = document.querySelector(".blog-form")
+
 
 btn.addEventListener("click", e => {
     if (nav.classList.contains("aside-admin")) {
@@ -9,3 +12,5 @@ btn.addEventListener("click", e => {
         nav.classList.add("aside-admin")
     }
 })
+
+// creating blog post in local storage
