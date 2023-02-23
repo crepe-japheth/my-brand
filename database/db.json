@@ -1,281 +1,306 @@
 {
-    "posts": [{
-            "id": 4,
-            "author": "Jude Whiley",
-            "title": "Yes, Lab-Grown Meat Is Vegan",
-            "description": "This new technology offers an opportunity to free animals from exploitation. So why are some vegans opposed to it?",
-            "url": "https://www.wired.com/story/lab-grown-meat-vegan-ethics-environment/",
-            "urlToImage": "https://media.wired.com/photos/63f014607d87edd2f4f35129/191:100/w_1280,c_limit/ideas_labgrown_meat_vegan_animals_ethics.jpg",
-            "publishedAt": "2023-02-19T12:00:00Z",
-            "content": "I wish I came to veganism through an epiphany about the right to personhood of animals, or recognition of the environmental harm that animal farming causes. But I didnt. What turned me vegan was a ni… [+3568 chars]",
-            "likes": 0
-        },
-        {
-            "id": 5,
-            "author": "Jennifer Doudna",
-            "title": "Crispr Wants to Feed the World",
-            "description": "The power to fight human diseases put genome editing on the map. But similar technology could help crops withstand the stress of climate change.",
-            "url": "https://www.wired.com/story/crispr-gene-editing-climate/",
-            "urlToImage": "https://media.wired.com/photos/63ceb9f6ba53d80ea8aba60d/191:100/w_1280,c_limit/01_Genetech-becomes-greentech.jpg",
-            "publishedAt": "2023-01-27T12:00:00Z",
-            "content": "Ten years after its discovery, the implications of Crispr genome editing are profound and far-reaching, and we are only getting started. This tool, adapted from a bacterial immune system, allows us t… [+3353 chars]",
-            "likes": 0
-        },
-        {
-            "id": 6,
-            "author": "Angela Watercutter",
-            "title": "Keanu Reeves Will Never Surrender to the Machines",
-            "description": "The Matrix movies brought Reeves and Chad Stahelski together. Now the duo is killing it on their fourth John Wick—and still keeping technology in check.",
-            "url": "https://www.wired.com/story/keanu-reeves-chad-stahelski-interview/",
-            "urlToImage": "https://media.wired.com/photos/63dac81484464089ca2fc691/191:100/w_1280,c_limit/WI030123_FF_HitMen_01.jpg",
-            "publishedAt": "2023-02-14T11:00:00Z",
-            "content": "Do you guys love science fiction?\r\nStahelski: Im always big on sci-fi. Like, John Wick is hyperreal. But its also got this analog sense. Old computers, old suits, old stuff.\r\nReeves: Im interested in… [+2543 chars]",
-            "likes": 0
-        },
-        {
-            "id": 7,
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "How ASML became Europe’s most valuable tech firm",
-            "description": "ASML machines make computer chips - with technology so advanced the firm is caught in geopolitical rivalry.",
-            "url": "https://www.bbc.co.uk/news/business-64514573",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/CB00/production/_128586915_gettyimages-957830374.jpg",
-            "publishedAt": "2023-02-21T01:04:10Z",
-            "content": "From the outside it looks like an ordinary corporate building, lots of glass and steel, but this factory in the south of the Netherlands belongs to ASML, and the machines made there are anything but … [+5163 chars]",
-            "likes": 0
-        },
-        {
-            "id": 8,
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "The new tech offering relief from the misery of period pain",
-            "description": "Two start-up firms are making wearable technology that targets menstrual discomfort.",
-            "url": "https://www.bbc.co.uk/news/business-64397795",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E618/production/_128440985_paulanewphoto.jpg",
-            "publishedAt": "2023-01-30T00:08:15Z",
-            "content": "When Paula Fischer first read about the development of a wearable bodysuit that helps to relieve menstrual pain, the 33-year-old says she was \"very excited to try it\".\r\nLike many women, she experienc… [+6376 chars]",
-            "likes": 0
-        },
-        {
-            "id": 9,
-            "author": "Michelle Toh",
-            "title": "China says it is 'deeply concerned' about reports of the latest US clampdown on Huawei",
-            "description": "China has hit back after reports that Washington is moving to further restrict sales of American technology to Huawei.",
-            "url": "https://www.cnn.com/2023/01/31/tech/huawei-us-china-export-ban-intl-hnk/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230131081259-huawei-factory-030619.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-01-31T09:59:36Z",
-            "content": "China has hit back after reports that Washington is moving to further restrict sales of American technology to Huawei. \r\nChina is deeply concerned, Mao Ning, a spokesperson for the countrys foreign m… [+1949 chars]",
-            "likes": 0
-        },
-        {
-            "id": 10,
-            "author": "Ramishah Maruf",
-            "title": "Super Bowl ad slams Tesla's 'Full Self-Driving' tech",
-            "description": "Electric carmaker Tesla will face a hit on Super Bowl Sunday, when an ad will play showing the alleged dangers of its Full Self-Driving technology.",
-            "url": "https://www.cnn.com/2023/02/12/business/super-bowl-ad-tesla-full-self-driving/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230125081548-telsa-logo.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-02-12T17:43:25Z",
-            "content": "Electric carmaker Tesla will face a hit on Super Bowl Sunday, when an ad will play showing the alleged dangers of its Full Self-Driving technology.\r\nThe commercial, which will be aired in Washington,… [+4503 chars]",
-            "likes": 0
-        },
-        {
-            "id": 11,
-            "author": "Will Knight",
-            "title": "Meet Bard, Google's Answer to ChatGPT",
-            "description": "The search giant’s new chatbot is in testing and will be launched “in the coming weeks.” An API will make it available for developers to build on.",
-            "url": "https://www.wired.com/story/meet-bard-googles-answer-to-chatgpt/",
-            "urlToImage": "https://media.wired.com/photos/63e152492c04f953ea75713c/191:100/w_1280,c_limit/Google-Reveals-Bard-Business-1391547835.jpg",
-            "publishedAt": "2023-02-06T22:48:03Z",
-            "content": "Google isnt about to let Microsoft or anyone else make a swipe for its search crown without a fight. The company announced today that it will roll out a chatbot named Bard in the coming weeks. The la… [+4676 chars]",
-            "likes": 0
-        },
-        {
-            "id": 12,
-            "author": "Stephen Shankland",
-            "title": "1Password Passkey Support Will Let You Dump Your 1 Password - CNET",
-            "description": "Login technology is slowly moving beyond today's feeble password technology.",
-            "url": "https://www.cnet.com/tech/services-and-software/1password-passkey-support-will-let-you-dump-your-1-password/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/ba7f04a94f33c35e7843de8edfd0ea3800577da0/hub/2022/06/09/f7fb5e4e-fa04-4491-b699-2cdbe512d63a/apple-passkeys-phone-crop.jpg?auto=webp&fit=crop&height=630&precrop=1492,838,x0,y0&width=1200",
-            "publishedAt": "2023-02-09T16:48:37Z",
-            "content": "Password manager 1Password will let you protect your vault of passwords with a passkey starting this summer, embracing an authentication technology designed to be as easy to use as passwords but more… [+2149 chars]",
-            "likes": 0
-        },
-        {
-            "id": 13,
-            "author": "Shubham Agarwal",
-            "title": "Audiobook Narrators Fear Spotify Used Their Voices to Train AI",
-            "description": "After a backlash, Spotify has removed a clause that allowed Apple to train machine learning models on some audiobook files.",
-            "url": "https://www.wired.com/story/apple-spotify-audiobook-narrators-ai-contract/",
-            "urlToImage": "https://media.wired.com/photos/63ea9209ec9575838d529923/191:100/w_1280,c_limit/Sec-apple-audio-654716637.jpg",
-            "publishedAt": "2023-02-14T16:03:54Z",
-            "content": "Starling believes Findaway has misused the material that authors and narrators entrusted it with. This is immoral and illegal, Starling told WIRED, Rights holders have the copyrights for the audioboo… [+3066 chars]",
-            "likes": 0
-        },
-        {
-            "id": 14,
-            "author": "Aarian Marshall",
-            "title": "Microsoft Taps ChatGPT to Boost Bing—and Beat Google",
-            "description": "The company's second-ranked search engine is getting a new chatbot interface that attempts to synthesize information from sites across the web.",
-            "url": "https://www.wired.com/story/microsoft-taps-chatgpt-to-boost-bing-and-beat-google/",
-            "urlToImage": "https://media.wired.com/photos/63e29afecde6e0e4f7129283/191:100/w_1280,c_limit/Biz-microsoft-1246378159.jpg",
-            "publishedAt": "2023-02-07T21:05:00Z",
-            "content": "Bings new chat-style interface is a greater departure from the traditional search box. In a demonstration, Microsoft vice president of search and devices Yusef Mehdi asked the chatbot to write a five… [+2869 chars]",
-            "likes": 0
-        },
-        {
-            "id": 15,
-            "author": "Dan Milmo Global technology editor",
-            "title": "Google poised to release chatbot technology after ChatGPT success",
-            "description": "Alphabet CEO says company well positioned in AI field, as analysts say ChatGPT has reached 100m usersGoogle is to make its chatbot technology available to the public in “the coming weeks and months” as it responds to the success of ChatGPT, a Microsoft-backed…",
-            "url": "https://www.theguardian.com/technology/2023/feb/03/google-poised-to-release-chatbot-technology-after-chatgpt-success",
-            "urlToImage": "https://i.guim.co.uk/img/media/f4150275f2ad179cde24039c0e19cd43545aa83b/0_95_5000_3001/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=aadf2f55b4a5605bea10e89502666791",
-            "publishedAt": "2023-02-03T14:13:59Z",
-            "content": "Google is to make its chatbot technology available to the public in the coming weeks and months as it responds to the success of ChatGPT, a Microsoft-backed artificial intelligence chatbot that has b… [+3329 chars]",
-            "likes": 0
-        },
-        {
-            "id": 16,
-            "author": "Jon Fingas",
-            "title": "Internal 'Minecraft' demo reportedly uses AI to play the game for you",
-            "description": "Microsoft has spent years teaching AI to play Minecraft, but it's apparently making enough progress that the game needs very little human involvement. Semaforsources claim Microsoft has produced an internal demo that lets you control Minecraft simply by telli…",
-            "url": "https://www.engadget.com/minecraft-ai-demo-162512335.html",
-            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/L1yaPYndcn_2.xvt0msHHw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-02/fafa6930-aed7-11ed-b7fd-2c3ffa56eec5.cf.jpg",
-            "publishedAt": "2023-02-17T16:25:12Z",
-            "content": "Microsoft has spent years teaching AI to play Minecraft, but it's apparently making enough progress that the game needs very little human involvement. Semaforsources claim Microsoft has produced an i… [+1358 chars]",
-            "likes": 0
-        },
-        {
-            "id": 17,
-            "author": "Juli Clover",
-            "title": "Apple Releases Safari Technology Preview 162 With Bug Fixes and Performance Improvements",
-            "description": "Apple today released a new update for Safari Technology Preview, the experimental browser Apple first introduced in March 2016. Apple designed the ‌Safari Technology Preview‌ to test features that may be introduced into future release versions of Safari.\n\n\n\n\n…",
-            "url": "https://www.macrumors.com/2023/01/25/apple-releases-safari-technology-preview-162/",
-            "urlToImage": "https://images.macrumors.com/t/jHD1aGfXq86Ln_kfzTyWIF68vOo=/2368x/article-new/2021/02/Safari-Technology-Preview-Feature.jpg",
-            "publishedAt": "2023-01-25T21:27:35Z",
-            "content": "Apple today released a new update for Safari Technology Preview, the experimental browser Apple first introduced in March 2016. Apple designed the ‌Safari Technology Preview‌ to test features that ma… [+1175 chars]",
-            "likes": 0
-        },
-        {
-            "id": 18,
-            "author": "Kris Holt",
-            "title": "NASA and DARPA will test nuclear thermal engines for crewed missions to Mars",
-            "description": "NASA\r\n is going back to an old idea as it tries to get humans to Mars. It is teaming up\r\n with the Defense Advanced Research Projects Agency (DARPA\r\n) to test a nuclear thermal rocket engine in space with the aim of using the technology for crewed missions to…",
-            "url": "https://www.engadget.com/nasa-darpa-nuclear-thermal-engine-crewed-missions-mars-200827580.html",
-            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-01/2afbeb00-9c21-11ed-af95-cb9e155506ca",
-            "publishedAt": "2023-01-24T20:08:27Z",
-            "content": "NASA\r\n is going back to an old idea as it tries to get humans to Mars. It is teaming up\r\n with the Defense Advanced Research Projects Agency (DARPA\r\n) to test a nuclear thermal rocket engine in space… [+2625 chars]",
-            "likes": 0
-        },
-        {
-            "id": 19,
-            "author": "Nik Froehlich",
-            "title": "5 Predictions for Business Technology in 2023",
-            "description": "The rate at which our technology is progressing is astounding, with no signs of slowing. While it’s easy to get bogged down by news of the “next big thing,” don’t get complacent. Technology continues to advance and drive business innovation. DevOps Will Domin…",
-            "url": "https://readwrite.com/predictions-for-business-technology-in-2023/",
-            "urlToImage": "https://images.readwrite.com/wp-content/uploads/2023/02/Predictions-for-Business-Tech.jpg",
-            "publishedAt": "2023-02-16T19:30:31Z",
-            "content": "The rate at which our technology is progressing is astounding, with no signs of slowing. While it’s easy to get bogged down by news of the next big thing, dont get complacent. Technology continues to… [+5672 chars]",
-            "likes": 0
-        },
-        {
-            "id": 20,
-            "author": "Nik Froehlich",
-            "title": "5 Predictions for Business Technology in 2023",
-            "description": "The rate at which our technology is progressing is astounding, with no signs of slowing. While it’s easy to get bogged down by news of the “next big thing,” don’t get complacent. Technology continues to advance and drive business innovation. DevOps Will Domin…",
-            "url": "https://readwrite.com/predictions-for-business-technology-in-2023/",
-            "urlToImage": "https://images.readwrite.com/wp-content/uploads/2023/02/Predictions-for-Business-Tech.jpg",
-            "publishedAt": "2023-02-16T19:30:31Z",
-            "content": "The rate at which our technology is progressing is astounding, with no signs of slowing. While it’s easy to get bogged down by news of the next big thing, dont get complacent. Technology continues to… [+5672 chars]",
-            "likes": 0
-        },
-        {
-            "id": 21,
-            "author": "msmash",
-            "title": "China's Newest Weapon To Nab Western Technology - Its Courts",
-            "description": "The growing conflict between China and the U.S. extends from computer-chip factories to a suspected spy balloon over American skies. Running through it all is a struggle for technological superiority. From a report: China has striven for years to develop cutt…",
-            "url": "https://news.slashdot.org/story/23/02/21/1857208/chinas-newest-weapon-to-nab-western-technology---its-courts",
-            "urlToImage": "https://a.fsdn.com/sd/topics/china_64.png",
-            "publishedAt": "2023-02-21T19:20:00Z",
-            "content": "China has striven for years to develop cutting-edge technologies, in part through heavy spending on research. Now, according to Western officials and executives, it also has mobilized its legal syste… [+1098 chars]",
-            "likes": 0
-        },
-        {
-            "id": 22,
-            "author": "Mariella Moon",
-            "title": "Microsoft could show off AI-powered versions of Word and Outlook this March",
-            "description": "Microsoft reportedly plans to introduce upgraded Office apps with AI features in the coming weeks. According to The Verge, the tech giant is preparing to show what its Prometheus AI technology and OpenAI's language AI can do for Word, PowerPoint, Outlook and …",
-            "url": "https://www.engadget.com/microsoft-could-show-off-ai-powered-versions-of-word-and-outlook-this-march-153514888.html",
-            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-02/9d507300-aa0f-11ed-bc1f-6c48293b267d",
-            "publishedAt": "2023-02-11T15:35:14Z",
-            "content": "Microsoft reportedly plans to introduce upgraded Office apps with AI features in the coming weeks. According to The Verge, the tech giant is preparing to show what its Prometheus AI technology and Op… [+1454 chars]",
-            "likes": 0
-        },
-        {
-            "id": 23,
-            "author": "insider@insider.com (Sindhu Sundar)",
-            "title": "ChatGPT 'may make up facts,' OpenAI's chief technology officer says",
-            "description": "OpenAI's CTO Mira Murati said ChatGPT's responses may not be accurate, acknowledging the bot's pitfalls in an interview with Time magazine.",
-            "url": "https://www.businessinsider.com/chatgpt-may-make-up-facts-openai-cto-mira-murati-says-2023-2",
-            "urlToImage": "https://i.insider.com/63e136a6428e0c0019f7b29c?width=1200&format=jpeg",
-            "publishedAt": "2023-02-06T18:34:18Z",
-            "content": "ChatGPT has captivated the worlds of tech, media, and education since OpenAI released the chatbot to the public in November, but its responses might not always be right. \r\nThe bot \"may make up facts\"… [+1984 chars]",
-            "likes": 0
-        },
-        {
-            "id": 23,
-            "author": "Will Knight",
-            "title": "Roblox Is Bringing Generative AI to Its Gaming Universe",
-            "description": "The company aims to draw on the new technology’s code-writing ability to make its digital worlds even more customizable.",
-            "url": "https://www.wired.com/story/roblox-generative-ai-gaming-universe/",
-            "urlToImage": "https://media.wired.com/photos/63ef9162ec9575838d5299ab/191:100/w_1280,c_limit/Roblox-Generative-AI-Materials_science.jpg",
-            "publishedAt": "2023-02-17T17:42:26Z",
-            "content": "Roblox is testing a tool that could accelerate the process of building and altering in-game objects by getting artificial intelligence to write the code. The tool lets anyone playing Roblox create it… [+3080 chars]",
-            "likes": 0
-        },
-        {
-            "id": 25,
-            "author": "Mat Smith",
-            "title": "The Morning After: Ticketmaster wants Congress to fix its bot problem",
-            "description": "In November, millions of Taylor Swift fans logged on to Ticketmaster to grab tickets for her 2023 tour. However, the site crashed, rendering verified users unable to purchase. Ticketmaster's parent company, Live Nation, explained that while 1.5 million people…",
-            "url": "https://www.engadget.com/the-morning-after-ticketmaster-wants-congress-to-fix-its-bot-problem-121540336.html",
-            "urlToImage": "https://s.yimg.com/os/creatr-images/2019-07/f010ad10-a3df-11e9-bfbf-b551faf121e0",
-            "publishedAt": "2023-01-25T12:15:40Z",
-            "content": "In November, millions of Taylor Swift fans logged on to Ticketmaster to grab tickets for her 2023 tour. However, the site crashed, rendering verified users unable to purchase. Ticketmaster's parent c… [+3622 chars]",
-            "likes": 0
-        }
-    ],
-    "comments": [{
-            "id": 4,
-            "body": "some comment",
-            "postId": 4
-        },
-        {
-            "id": 5,
-            "body": "some comment",
-            "postId": 5
-        },
-        {
-            "name": "MUTABARUKA Japhet",
-            "body": "love it",
-            "date": "2023-02-18T15:22:13.502Z",
-            "postId": "6",
-            "id": 6
-        },
-        {
-            "name": "subtles of not giving fuck",
-            "body": "amazing",
-            "date": "2023-02-18T15:23:29.874Z",
-            "postId": "6",
-            "id": 7
-        }
-    ],
-    "users": [{
-        "name": "japheth",
-        "password": "12345"
-    }],
-    "messages": [{
-        "name": "kalisa",
-        "email": "japheth@gmail.com",
-        "body": "how are you",
-        "date": "2023-02-18T15:54:25.266Z",
-        "id": 2
-    }]
+  "posts": [
+    {
+      "id": 4,
+      "author": "Jude Whiley",
+      "title": "Yes, Lab-Grown Meat Is Vegan",
+      "description": "This new technology offers an opportunity to free animals from exploitation. So why are some vegans opposed to it?",
+      "url": "https://www.wired.com/story/lab-grown-meat-vegan-ethics-environment/",
+      "urlToImage": "https://media.wired.com/photos/63f014607d87edd2f4f35129/191:100/w_1280,c_limit/ideas_labgrown_meat_vegan_animals_ethics.jpg",
+      "publishedAt": "2023-02-19T12:00:00Z",
+      "content": "I wish I came to veganism through an epiphany about the right to personhood of animals, or recognition of the environmental harm that animal farming causes. But I didnt. What turned me vegan was a ni… [+3568 chars]",
+      "likes": 0
+    },
+    {
+      "id": 5,
+      "author": "Jennifer Doudna",
+      "title": "Crispr Wants to Feed the World",
+      "description": "The power to fight human diseases put genome editing on the map. But similar technology could help crops withstand the stress of climate change.",
+      "url": "https://www.wired.com/story/crispr-gene-editing-climate/",
+      "urlToImage": "https://media.wired.com/photos/63ceb9f6ba53d80ea8aba60d/191:100/w_1280,c_limit/01_Genetech-becomes-greentech.jpg",
+      "publishedAt": "2023-01-27T12:00:00Z",
+      "content": "Ten years after its discovery, the implications of Crispr genome editing are profound and far-reaching, and we are only getting started. This tool, adapted from a bacterial immune system, allows us t… [+3353 chars]",
+      "likes": 0
+    },
+    {
+      "id": 6,
+      "author": "Angela Watercutter",
+      "title": "Keanu Reeves Will Never Surrender to the Machines",
+      "description": "The Matrix movies brought Reeves and Chad Stahelski together. Now the duo is killing it on their fourth John Wick—and still keeping technology in check.",
+      "url": "https://www.wired.com/story/keanu-reeves-chad-stahelski-interview/",
+      "urlToImage": "https://media.wired.com/photos/63dac81484464089ca2fc691/191:100/w_1280,c_limit/WI030123_FF_HitMen_01.jpg",
+      "publishedAt": "2023-02-14T11:00:00Z",
+      "content": "Do you guys love science fiction?\r\nStahelski: Im always big on sci-fi. Like, John Wick is hyperreal. But its also got this analog sense. Old computers, old suits, old stuff.\r\nReeves: Im interested in… [+2543 chars]",
+      "likes": 0
+    },
+    {
+      "id": 7,
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "How ASML became Europe’s most valuable tech firm",
+      "description": "ASML machines make computer chips - with technology so advanced the firm is caught in geopolitical rivalry.",
+      "url": "https://www.bbc.co.uk/news/business-64514573",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/CB00/production/_128586915_gettyimages-957830374.jpg",
+      "publishedAt": "2023-02-21T01:04:10Z",
+      "content": "From the outside it looks like an ordinary corporate building, lots of glass and steel, but this factory in the south of the Netherlands belongs to ASML, and the machines made there are anything but … [+5163 chars]",
+      "likes": 0
+    },
+    {
+      "id": 8,
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "The new tech offering relief from the misery of period pain",
+      "description": "Two start-up firms are making wearable technology that targets menstrual discomfort.",
+      "url": "https://www.bbc.co.uk/news/business-64397795",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E618/production/_128440985_paulanewphoto.jpg",
+      "publishedAt": "2023-01-30T00:08:15Z",
+      "content": "When Paula Fischer first read about the development of a wearable bodysuit that helps to relieve menstrual pain, the 33-year-old says she was \"very excited to try it\".\r\nLike many women, she experienc… [+6376 chars]",
+      "likes": 0
+    },
+    {
+      "id": 9,
+      "author": "Michelle Toh",
+      "title": "China says it is 'deeply concerned' about reports of the latest US clampdown on Huawei",
+      "description": "China has hit back after reports that Washington is moving to further restrict sales of American technology to Huawei.",
+      "url": "https://www.cnn.com/2023/01/31/tech/huawei-us-china-export-ban-intl-hnk/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230131081259-huawei-factory-030619.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-01-31T09:59:36Z",
+      "content": "China has hit back after reports that Washington is moving to further restrict sales of American technology to Huawei. \r\nChina is deeply concerned, Mao Ning, a spokesperson for the countrys foreign m… [+1949 chars]",
+      "likes": 0
+    },
+    {
+      "id": 10,
+      "author": "Ramishah Maruf",
+      "title": "Super Bowl ad slams Tesla's 'Full Self-Driving' tech",
+      "description": "Electric carmaker Tesla will face a hit on Super Bowl Sunday, when an ad will play showing the alleged dangers of its Full Self-Driving technology.",
+      "url": "https://www.cnn.com/2023/02/12/business/super-bowl-ad-tesla-full-self-driving/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230125081548-telsa-logo.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-02-12T17:43:25Z",
+      "content": "Electric carmaker Tesla will face a hit on Super Bowl Sunday, when an ad will play showing the alleged dangers of its Full Self-Driving technology.\r\nThe commercial, which will be aired in Washington,… [+4503 chars]",
+      "likes": 0
+    },
+    {
+      "id": 11,
+      "author": "Will Knight",
+      "title": "Meet Bard, Google's Answer to ChatGPT",
+      "description": "The search giant’s new chatbot is in testing and will be launched “in the coming weeks.” An API will make it available for developers to build on.",
+      "url": "https://www.wired.com/story/meet-bard-googles-answer-to-chatgpt/",
+      "urlToImage": "https://media.wired.com/photos/63e152492c04f953ea75713c/191:100/w_1280,c_limit/Google-Reveals-Bard-Business-1391547835.jpg",
+      "publishedAt": "2023-02-06T22:48:03Z",
+      "content": "Google isnt about to let Microsoft or anyone else make a swipe for its search crown without a fight. The company announced today that it will roll out a chatbot named Bard in the coming weeks. The la… [+4676 chars]",
+      "likes": 0
+    },
+    {
+      "id": 12,
+      "author": "Stephen Shankland",
+      "title": "1Password Passkey Support Will Let You Dump Your 1 Password - CNET",
+      "description": "Login technology is slowly moving beyond today's feeble password technology.",
+      "url": "https://www.cnet.com/tech/services-and-software/1password-passkey-support-will-let-you-dump-your-1-password/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/ba7f04a94f33c35e7843de8edfd0ea3800577da0/hub/2022/06/09/f7fb5e4e-fa04-4491-b699-2cdbe512d63a/apple-passkeys-phone-crop.jpg?auto=webp&fit=crop&height=630&precrop=1492,838,x0,y0&width=1200",
+      "publishedAt": "2023-02-09T16:48:37Z",
+      "content": "Password manager 1Password will let you protect your vault of passwords with a passkey starting this summer, embracing an authentication technology designed to be as easy to use as passwords but more… [+2149 chars]",
+      "likes": 0
+    },
+    {
+      "id": 13,
+      "author": "Shubham Agarwal",
+      "title": "Audiobook Narrators Fear Spotify Used Their Voices to Train AI",
+      "description": "After a backlash, Spotify has removed a clause that allowed Apple to train machine learning models on some audiobook files.",
+      "url": "https://www.wired.com/story/apple-spotify-audiobook-narrators-ai-contract/",
+      "urlToImage": "https://media.wired.com/photos/63ea9209ec9575838d529923/191:100/w_1280,c_limit/Sec-apple-audio-654716637.jpg",
+      "publishedAt": "2023-02-14T16:03:54Z",
+      "content": "Starling believes Findaway has misused the material that authors and narrators entrusted it with. This is immoral and illegal, Starling told WIRED, Rights holders have the copyrights for the audioboo… [+3066 chars]",
+      "likes": 0
+    },
+    {
+      "id": 14,
+      "author": "Aarian Marshall",
+      "title": "Microsoft Taps ChatGPT to Boost Bing—and Beat Google",
+      "description": "The company's second-ranked search engine is getting a new chatbot interface that attempts to synthesize information from sites across the web.",
+      "url": "https://www.wired.com/story/microsoft-taps-chatgpt-to-boost-bing-and-beat-google/",
+      "urlToImage": "https://media.wired.com/photos/63e29afecde6e0e4f7129283/191:100/w_1280,c_limit/Biz-microsoft-1246378159.jpg",
+      "publishedAt": "2023-02-07T21:05:00Z",
+      "content": "Bings new chat-style interface is a greater departure from the traditional search box. In a demonstration, Microsoft vice president of search and devices Yusef Mehdi asked the chatbot to write a five… [+2869 chars]",
+      "likes": 0
+    },
+    {
+      "id": 15,
+      "author": "Dan Milmo Global technology editor",
+      "title": "Google poised to release chatbot technology after ChatGPT success",
+      "description": "Alphabet CEO says company well positioned in AI field, as analysts say ChatGPT has reached 100m usersGoogle is to make its chatbot technology available to the public in “the coming weeks and months” as it responds to the success of ChatGPT, a Microsoft-backed…",
+      "url": "https://www.theguardian.com/technology/2023/feb/03/google-poised-to-release-chatbot-technology-after-chatgpt-success",
+      "urlToImage": "https://i.guim.co.uk/img/media/f4150275f2ad179cde24039c0e19cd43545aa83b/0_95_5000_3001/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=aadf2f55b4a5605bea10e89502666791",
+      "publishedAt": "2023-02-03T14:13:59Z",
+      "content": "Google is to make its chatbot technology available to the public in the coming weeks and months as it responds to the success of ChatGPT, a Microsoft-backed artificial intelligence chatbot that has b… [+3329 chars]",
+      "likes": 0
+    },
+    {
+      "id": 16,
+      "author": "Jon Fingas",
+      "title": "Internal 'Minecraft' demo reportedly uses AI to play the game for you",
+      "description": "Microsoft has spent years teaching AI to play Minecraft, but it's apparently making enough progress that the game needs very little human involvement. Semaforsources claim Microsoft has produced an internal demo that lets you control Minecraft simply by telli…",
+      "url": "https://www.engadget.com/minecraft-ai-demo-162512335.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/L1yaPYndcn_2.xvt0msHHw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-02/fafa6930-aed7-11ed-b7fd-2c3ffa56eec5.cf.jpg",
+      "publishedAt": "2023-02-17T16:25:12Z",
+      "content": "Microsoft has spent years teaching AI to play Minecraft, but it's apparently making enough progress that the game needs very little human involvement. Semaforsources claim Microsoft has produced an i… [+1358 chars]",
+      "likes": 0
+    },
+    {
+      "id": 17,
+      "author": "Juli Clover",
+      "title": "Apple Releases Safari Technology Preview 162 With Bug Fixes and Performance Improvements",
+      "description": "Apple today released a new update for Safari Technology Preview, the experimental browser Apple first introduced in March 2016. Apple designed the ‌Safari Technology Preview‌ to test features that may be introduced into future release versions of Safari.\n\n\n\n\n…",
+      "url": "https://www.macrumors.com/2023/01/25/apple-releases-safari-technology-preview-162/",
+      "urlToImage": "https://images.macrumors.com/t/jHD1aGfXq86Ln_kfzTyWIF68vOo=/2368x/article-new/2021/02/Safari-Technology-Preview-Feature.jpg",
+      "publishedAt": "2023-01-25T21:27:35Z",
+      "content": "Apple today released a new update for Safari Technology Preview, the experimental browser Apple first introduced in March 2016. Apple designed the ‌Safari Technology Preview‌ to test features that ma… [+1175 chars]",
+      "likes": 0
+    },
+    {
+      "id": 18,
+      "author": "Kris Holt",
+      "title": "NASA and DARPA will test nuclear thermal engines for crewed missions to Mars",
+      "description": "NASA\r\n is going back to an old idea as it tries to get humans to Mars. It is teaming up\r\n with the Defense Advanced Research Projects Agency (DARPA\r\n) to test a nuclear thermal rocket engine in space with the aim of using the technology for crewed missions to…",
+      "url": "https://www.engadget.com/nasa-darpa-nuclear-thermal-engine-crewed-missions-mars-200827580.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-01/2afbeb00-9c21-11ed-af95-cb9e155506ca",
+      "publishedAt": "2023-01-24T20:08:27Z",
+      "content": "NASA\r\n is going back to an old idea as it tries to get humans to Mars. It is teaming up\r\n with the Defense Advanced Research Projects Agency (DARPA\r\n) to test a nuclear thermal rocket engine in space… [+2625 chars]",
+      "likes": 0
+    },
+    {
+      "id": 19,
+      "author": "Nik Froehlich",
+      "title": "5 Predictions for Business Technology in 2023",
+      "description": "The rate at which our technology is progressing is astounding, with no signs of slowing. While it’s easy to get bogged down by news of the “next big thing,” don’t get complacent. Technology continues to advance and drive business innovation. DevOps Will Domin…",
+      "url": "https://readwrite.com/predictions-for-business-technology-in-2023/",
+      "urlToImage": "https://images.readwrite.com/wp-content/uploads/2023/02/Predictions-for-Business-Tech.jpg",
+      "publishedAt": "2023-02-16T19:30:31Z",
+      "content": "The rate at which our technology is progressing is astounding, with no signs of slowing. While it’s easy to get bogged down by news of the next big thing, dont get complacent. Technology continues to… [+5672 chars]",
+      "likes": 0
+    },
+    {
+      "id": 20,
+      "author": "Nik Froehlich",
+      "title": "5 Predictions for Business Technology in 2023",
+      "description": "The rate at which our technology is progressing is astounding, with no signs of slowing. While it’s easy to get bogged down by news of the “next big thing,” don’t get complacent. Technology continues to advance and drive business innovation. DevOps Will Domin…",
+      "url": "https://readwrite.com/predictions-for-business-technology-in-2023/",
+      "urlToImage": "https://images.readwrite.com/wp-content/uploads/2023/02/Predictions-for-Business-Tech.jpg",
+      "publishedAt": "2023-02-16T19:30:31Z",
+      "content": "The rate at which our technology is progressing is astounding, with no signs of slowing. While it’s easy to get bogged down by news of the next big thing, dont get complacent. Technology continues to… [+5672 chars]",
+      "likes": 0
+    },
+    {
+      "id": 21,
+      "author": "msmash",
+      "title": "China's Newest Weapon To Nab Western Technology - Its Courts",
+      "description": "The growing conflict between China and the U.S. extends from computer-chip factories to a suspected spy balloon over American skies. Running through it all is a struggle for technological superiority. From a report: China has striven for years to develop cutt…",
+      "url": "https://news.slashdot.org/story/23/02/21/1857208/chinas-newest-weapon-to-nab-western-technology---its-courts",
+      "urlToImage": "https://a.fsdn.com/sd/topics/china_64.png",
+      "publishedAt": "2023-02-21T19:20:00Z",
+      "content": "China has striven for years to develop cutting-edge technologies, in part through heavy spending on research. Now, according to Western officials and executives, it also has mobilized its legal syste… [+1098 chars]",
+      "likes": 0
+    },
+    {
+      "id": 22,
+      "author": "Mariella Moon",
+      "title": "Microsoft could show off AI-powered versions of Word and Outlook this March",
+      "description": "Microsoft reportedly plans to introduce upgraded Office apps with AI features in the coming weeks. According to The Verge, the tech giant is preparing to show what its Prometheus AI technology and OpenAI's language AI can do for Word, PowerPoint, Outlook and …",
+      "url": "https://www.engadget.com/microsoft-could-show-off-ai-powered-versions-of-word-and-outlook-this-march-153514888.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-02/9d507300-aa0f-11ed-bc1f-6c48293b267d",
+      "publishedAt": "2023-02-11T15:35:14Z",
+      "content": "Microsoft reportedly plans to introduce upgraded Office apps with AI features in the coming weeks. According to The Verge, the tech giant is preparing to show what its Prometheus AI technology and Op… [+1454 chars]",
+      "likes": 0
+    },
+    {
+      "id": 23,
+      "author": "insider@insider.com (Sindhu Sundar)",
+      "title": "ChatGPT 'may make up facts,' OpenAI's chief technology officer says",
+      "description": "OpenAI's CTO Mira Murati said ChatGPT's responses may not be accurate, acknowledging the bot's pitfalls in an interview with Time magazine.",
+      "url": "https://www.businessinsider.com/chatgpt-may-make-up-facts-openai-cto-mira-murati-says-2023-2",
+      "urlToImage": "https://i.insider.com/63e136a6428e0c0019f7b29c?width=1200&format=jpeg",
+      "publishedAt": "2023-02-06T18:34:18Z",
+      "content": "ChatGPT has captivated the worlds of tech, media, and education since OpenAI released the chatbot to the public in November, but its responses might not always be right. \r\nThe bot \"may make up facts\"… [+1984 chars]",
+      "likes": 0
+    },
+    {
+      "id": 23,
+      "author": "Will Knight",
+      "title": "Roblox Is Bringing Generative AI to Its Gaming Universe",
+      "description": "The company aims to draw on the new technology’s code-writing ability to make its digital worlds even more customizable.",
+      "url": "https://www.wired.com/story/roblox-generative-ai-gaming-universe/",
+      "urlToImage": "https://media.wired.com/photos/63ef9162ec9575838d5299ab/191:100/w_1280,c_limit/Roblox-Generative-AI-Materials_science.jpg",
+      "publishedAt": "2023-02-17T17:42:26Z",
+      "content": "Roblox is testing a tool that could accelerate the process of building and altering in-game objects by getting artificial intelligence to write the code. The tool lets anyone playing Roblox create it… [+3080 chars]",
+      "likes": 0
+    },
+    {
+      "id": 25,
+      "author": "Mat Smith",
+      "title": "The Morning After: Ticketmaster wants Congress to fix its bot problem",
+      "description": "In November, millions of Taylor Swift fans logged on to Ticketmaster to grab tickets for her 2023 tour. However, the site crashed, rendering verified users unable to purchase. Ticketmaster's parent company, Live Nation, explained that while 1.5 million people…",
+      "url": "https://www.engadget.com/the-morning-after-ticketmaster-wants-congress-to-fix-its-bot-problem-121540336.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-images/2019-07/f010ad10-a3df-11e9-bfbf-b551faf121e0",
+      "publishedAt": "2023-01-25T12:15:40Z",
+      "content": "In November, millions of Taylor Swift fans logged on to Ticketmaster to grab tickets for her 2023 tour. However, the site crashed, rendering verified users unable to purchase. Ticketmaster's parent c… [+3622 chars]",
+      "likes": 0
+    },
+    {
+      "author": "japheth",
+      "title": "new blog post 1234",
+      "description": "",
+      "url": "",
+      "urlToImage": "",
+      "content": "hi! are you ready with tech",
+      "likes": 0,
+      "publishedAt": "2023-02-23T08:57:23.947Z",
+      "id": 26
+    }
+  ],
+  "comments": [
+    {
+      "id": 4,
+      "body": "some comment",
+      "date": "2023-02-18T15:22:13.502Z",
+      "postId": 4,
+      "name": "japheth"
+    },
+    {
+      "id": 6,
+      "body": "love it",
+      "date": "2023-02-18T15:22:13.502Z",
+      "postId": 6,
+      "name": "MUTABARUKA Japhet"
+    },
+    {
+      "id": 7,
+      "body": "this is awesome",
+      "date": "2023-02-23T08:58:10.924Z",
+      "postId": 26,
+      "name": "japheth"
+    },
+    {
+      "name": "crepin",
+      "body": "can you make other like this",
+      "date": "2023-02-23T09:18:24.880Z",
+      "postId": 26,
+      "id": 8
+    }
+  ],
+  "users": [
+    {
+      "name": "japheth",
+      "password": "12345"
+    },
+    {
+      "name": "mutabaruka",
+      "password": "12345"
+    }
+  ],
+  "messages": [
+    {
+      "name": "kalisa",
+      "email": "japheth@gmail.com",
+      "body": "how are you",
+      "date": "2023-02-18T15:54:25.266Z",
+      "id": 2
+    }
+  ]
 }

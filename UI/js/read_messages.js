@@ -14,7 +14,7 @@ const renderMessages = async() => {
             <td> ${message.date} </td>
             <td> ${message.email} </td>
             <td> ${message.body.slice(0, 10) + '...'} </td>
-            <td><a href="" class="update">view</a> </td>
+            <td><a href="/UI/admin/view_msg.html?id=${message.id}" class="update"id=${message.id}>view</a> </td>
             <td><a href="" id=${message.id} class="delete">delete</a> </td>
         </tr>
         `
@@ -31,6 +31,7 @@ const deleteMessage = async(id) => {
         method: 'DELETE'
     })
 }
+
 
 messageContent.addEventListener('click', e => {
     if (e.target.classList.contains('delete')) {

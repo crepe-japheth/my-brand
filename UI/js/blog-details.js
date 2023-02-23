@@ -96,7 +96,7 @@ const createComment = async(e) => {
         name: inputName.value,
         body: textArea.value,
         date: new Date(),
-        postId: id
+        postId: Number(id)
     }
 
     await fetch(currentURL + '/comments', {
