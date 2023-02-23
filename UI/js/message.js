@@ -2,7 +2,7 @@ const contactForm = document.querySelector('.form-contact')
 const inputName = contactForm['fullname']
 const inputEmail = contactForm['email']
 const textMessage = contactForm['message']
-const currentURL = " http://localhost:3000" //https://poised-crab-miniskirt.cyclic.app
+const currentURL = "https://poised-crab-miniskirt.cyclic.app" //" http://localhost:3000" //https://poised-crab-miniskirt.cyclic.app
 console.log(contactForm)
 
 const createMessage = async(e) => {

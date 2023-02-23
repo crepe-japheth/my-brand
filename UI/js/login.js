@@ -3,7 +3,7 @@ console.log(loginForm)
 const username = loginForm['username']
 const textArea = loginForm['password']
 
-const currentURL = " http://localhost:3000" //https://poised-crab-miniskirt.cyclic.app
+const currentURL = "https://poised-crab-miniskirt.cyclic.app" //" http://localhost:3000" //https://poised-crab-miniskirt.cyclic.app
 
 const login = async(e) => {
     e.preventDefault();

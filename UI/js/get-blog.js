@@ -1,6 +1,6 @@
 const blogArticle = document.querySelector('.blog-article')
 const adminPosts = document.querySelector('.post-insert')
-const currentURL = " http://localhost:3000" //https://poised-crab-miniskirt.cyclic.app
+const currentURL = "https://poised-crab-miniskirt.cyclic.app" // " http://localhost:3000" //https://poised-crab-miniskirt.cyclic.app
 
 const renderPosts = async() => {
     let uri = currentURL + '/posts?_embed=comments'

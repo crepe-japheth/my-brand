@@ -1,7 +1,7 @@
 const inputTitle = blogForm['title']
 const inputFile = blogForm['image']
 const textArea = blogForm['blog']
-const currentURL = " http://localhost:3000" //https://poised-crab-miniskirt.cyclic.app
+const currentURL = "https://poised-crab-miniskirt.cyclic.app" //" http://localhost:3000" //https://poised-crab-miniskirt.cyclic.app
 
 const createPost = async(e) => {
     e.preventDefault();

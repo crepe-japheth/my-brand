@@ -4,7 +4,7 @@ const postRecent = document.querySelector('.post-recent')
 const popularPost = document.querySelector('.popular-post')
 const youMayLike = document.querySelector('.you-may-like')
 const commentForm = document.querySelector('.comment-form')
-const currentURL = " http://localhost:3000" //https://poised-crab-miniskirt.cyclic.app
+const currentURL = "https://poised-crab-miniskirt.cyclic.app" //" http://localhost:3000" //https://poised-crab-miniskirt.cyclic.app
 
 
 const renderDetails = async() => {

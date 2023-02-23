@@ -1,7 +1,7 @@
 const updateBtn = document.querySelector('#publish')
 const id = new URLSearchParams(window.location.search).get('id')
 const blogUpdate = document.querySelector('.blog-form')
-const currentURL = " http://localhost:3000" //https://poised-crab-miniskirt.cyclic.app
+const currentURL = "https://poised-crab-miniskirt.cyclic.app" //" http://localhost:3000" //https://poised-crab-miniskirt.cyclic.app
 
 
 const update = async() => {

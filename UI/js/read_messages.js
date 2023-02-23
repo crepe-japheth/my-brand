@@ -1,5 +1,5 @@
 const messageContent = document.querySelector('.message-content')
-const currentURL = " http://localhost:3000" //https://poised-crab-miniskirt.cyclic.app
+const currentURL = "https://poised-crab-miniskirt.cyclic.app" //" http://localhost:3000" //https://poised-crab-miniskirt.cyclic.app
 
 const renderMessages = async() => {
     let uri = currentURL + '/messages'
