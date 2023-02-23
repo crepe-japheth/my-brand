@@ -1,18 +1,22 @@
 const inputTitle = blogForm['title']
 const inputFile = blogForm['image']
 const textArea = blogForm['blog']
+const currentURL = " http://localhost:3000" //https://poised-crab-miniskirt.cyclic.app
 
 const createPost = async(e) => {
     e.preventDefault();
     const blog = {
+        author: 'japheth',
         title: inputTitle.value,
-        img: inputFile.value,
-        body: textArea.value,
+        description: '',
+        url: '',
+        urlToImage: inputFile.value,
+        content: textArea.value,
         likes: 0,
-        date: new Date()
+        publishedAt: new Date()
     }
 
-    await fetch('https://poised-crab-miniskirt.cyclic.app/posts', {
+    await fetch(currentURL + '/posts', {
         method: 'POST',
         body: JSON.stringify(blog),
         headers: { 'Content-Type': 'application/json' }

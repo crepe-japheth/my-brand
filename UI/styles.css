@@ -231,7 +231,8 @@
     
     .blog-article {
         display: grid;
-        grid-template-columns: 2fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        /* grid-template-rows: 2fr 1fr 1fr; */
         gap: 1rem;
         margin-left: 4%;
     }
@@ -262,9 +263,6 @@
     
     .first {
         grid-row: span 2;
-    }
-    
-    .fourth {
         grid-column: span 2;
     }
     /* blog details styling */
@@ -671,8 +669,13 @@
             padding: .1rem .2rem;
         }
         .blog-article {
-            grid-template-columns: 0;
+            grid-template-columns: 1fr;
+            grid-template-rows: 1fr;
             margin-left: 1%;
+        }
+        .first {
+            grid-row: span 1;
+            grid-column: span 1;
         }
         .contact-section--address {
             flex-direction: column;

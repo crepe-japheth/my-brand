@@ -1,8 +1,9 @@
 const parentBtns = document.querySelector('.post-insert')
+const currentURL = " http://localhost:3000" //https://poised-crab-miniskirt.cyclic.app
 
 
 const deletePost = async(id) => {
-    const res = await fetch('https://poised-crab-miniskirt.cyclic.app/posts/' + id, {
+    const res = await fetch(currentURL + '/posts/' + id, {
         method: 'DELETE'
     })
 }

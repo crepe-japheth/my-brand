@@ -1,8 +1,8 @@
 const messageContent = document.querySelector('.message-content')
-
+const currentURL = " http://localhost:3000" //https://poised-crab-miniskirt.cyclic.app
 
 const renderMessages = async() => {
-    let uri = 'https://poised-crab-miniskirt.cyclic.app/messages'
+    let uri = currentURL + '/messages'
 
     const res = await fetch(uri)
     const messages = await res.json()
@@ -27,7 +27,7 @@ window.addEventListener('DOMContentLoaded', () => renderMessages())
 
 
 const deleteMessage = async(id) => {
-    const res = await fetch('https://poised-crab-miniskirt.cyclic.app/messages/' + id, {
+    const res = await fetch(currentURL + '/messages/' + id, {
         method: 'DELETE'
     })
 }

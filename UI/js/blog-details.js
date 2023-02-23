@@ -4,9 +4,11 @@ const postRecent = document.querySelector('.post-recent')
 const popularPost = document.querySelector('.popular-post')
 const youMayLike = document.querySelector('.you-may-like')
 const commentForm = document.querySelector('.comment-form')
+const currentURL = " http://localhost:3000" //https://poised-crab-miniskirt.cyclic.app
+
 
 const renderDetails = async() => {
-    let uri = 'https://poised-crab-miniskirt.cyclic.app/posts/' + id
+    let uri = currentURL + '/posts/' + id
 
     const res = await fetch(uri)
     const post = await res.json()
@@ -14,7 +16,7 @@ const renderDetails = async() => {
     const template = `
     <h1> ${post.title} </h1>
     <img src="./assets/ecom.jpeg" alt="">
-    <p> ${post.body} </p>
+    <p> ${post.content} </p>
     `
 
     blogDetails.insertAdjacentHTML('afterbegin', template)
@@ -23,7 +25,7 @@ const renderDetails = async() => {
 window.addEventListener('DOMContentLoaded', () => renderDetails())
 
 const filterPostsByComments = async() => {
-    let uri = 'https://poised-crab-miniskirt.cyclic.app/posts?_embed=comments&_sort=comments&_limit=3'
+    let uri = currentURL + '/posts?_embed=comments&_sort=comments&_limit=3'
 
     const res = await fetch(uri)
     const posts = await res.json()
@@ -43,7 +45,7 @@ window.addEventListener('DOMContentLoaded', () => filterPostsByComments())
 
 
 const filterPostsByLikes = async() => {
-    let uri = 'https://poised-crab-miniskirt.cyclic.app/posts?_sort=likes&_order=desc&_limit=3'
+    let uri = currentURL + '/posts?_sort=likes&_order=desc&_limit=3'
 
     const res = await fetch(uri)
     const posts = await res.json()
@@ -64,7 +66,7 @@ const filterPostsByLikes = async() => {
 window.addEventListener('DOMContentLoaded', () => filterPostsByLikes())
 
 const filterPostsByRecent = async() => {
-    let uri = 'https://poised-crab-miniskirt.cyclic.app/posts?_sort=id&_order=desc&_limit=3'
+    let uri = currentURL + '/posts?_sort=id&_order=desc&_limit=3'
 
     const res = await fetch(uri)
     const posts = await res.json()
@@ -97,7 +99,7 @@ const createComment = async(e) => {
         postId: id
     }
 
-    await fetch('https://poised-crab-miniskirt.cyclic.app/comments', {
+    await fetch(currentURL + '/comments', {
         method: 'POST',
         body: JSON.stringify(comment),
         headers: { 'Content-Type': 'application/json' }

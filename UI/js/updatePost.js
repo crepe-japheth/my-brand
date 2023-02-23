@@ -1,19 +1,19 @@
 const updateBtn = document.querySelector('#publish')
 const id = new URLSearchParams(window.location.search).get('id')
 const blogUpdate = document.querySelector('.blog-form')
-
+const currentURL = " http://localhost:3000" //https://poised-crab-miniskirt.cyclic.app
 
 
 const update = async() => {
-    let uri = 'https://poised-crab-miniskirt.cyclic.app/posts/' + id
+    let uri = currentURL + '/posts/' + id
 
     const res = await fetch(uri)
     const post = await res.json()
 
     const template = `
         <input type="text" name="title" id="" value="${post.title}" placeholder="blog title" required>
-        <input type="text" name="image" id="" value="${post.img}" placeholder="image url">
-        <textarea name="blog" id="" cols="30" rows="10" placeholder="blog content here" required>${post.body}</textarea>
+        <input type="text" name="image" id="" value="${post.urlToImage}" placeholder="image url">
+        <textarea name="blog" id="" cols="30" rows="10" placeholder="blog content here" required>${post.content}</textarea>
     `
 
     blogUpdate.insertAdjacentHTML('afterbegin', template)
@@ -23,7 +23,7 @@ window.addEventListener('DOMContentLoaded', () => update())
 
 const updataPost = async(id, blog) => {
     try {
-        const res = await fetch('https://poised-crab-miniskirt.cyclic.app/posts/' + id, {
+        const res = await fetch(currentURL + '/posts/' + id, {
             method: 'PATCH',
             body: JSON.stringify(blog),
             headers: { 'Content_Type': 'application/json' }
@@ -41,10 +41,10 @@ blogUpdate.addEventListener('submit', e => {
         const blog = {
             id: Number(id),
             title: titleInput.value,
-            img: imgInput.value,
-            body: bodyInput.value,
+            urlToImage: imgInput.value,
+            content: bodyInput.value,
             likes: 0,
-            date: "2023-02-17"
+            publishedAt: "2023-02-17"
         }
         updataPost(id, blog)
             // window.location.replace('../admin/posts.html')
