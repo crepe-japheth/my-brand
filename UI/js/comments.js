@@ -1,8 +1,9 @@
 const blogArticle = document.querySelector('.blog-article')
 const insertComment = document.querySelector('.insert-comment')
+const currentURL = " http://localhost:3000" //https://poised-crab-miniskirt.cyclic.app
 
 const renderPosts = async() => {
-    let uri = 'https://poised-crab-miniskirt.cyclic.app/comments?_expand=post'
+    let uri = currentURL + '/comments?_expand=post'
 
     const res = await fetch(uri)
     const comments = await res.json()
@@ -28,7 +29,7 @@ window.addEventListener('DOMContentLoaded', () => renderPosts())
 
 
 const deleteComment = async(id) => {
-    const res = await fetch('https://poised-crab-miniskirt.cyclic.app/comments/' + id, {
+    const res = await fetch(currentURL + '/comments/' + id, {
         method: 'DELETE'
     })
 }
