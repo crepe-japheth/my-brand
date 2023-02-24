@@ -19,7 +19,7 @@ const login = async(e) => {
         console.log('no user with this username')
     } else {
 
-        window.location.replace('/UI/admin/dashboard.html')
+        window.location.replace('/admin/dashboard.html')
     }
 }
 
