@@ -26,7 +26,7 @@ const renderPosts = async() => {
         const template = `
         <article class = "${index == postlen - 1 ? 'first' : ''} article">
             <a href="blog-details.html?id=${post.id}">
-                <img src="./assets/port.jpeg" alt="">
+                <img src=" ${post.urlToImage} " alt="">
                 <p>${post.content.slice(0, 200) + '...'}</p>
             </a>
         </article>

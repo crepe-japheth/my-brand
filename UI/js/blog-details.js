@@ -15,7 +15,7 @@ const renderDetails = async() => {
 
     const template = `
     <h1> ${post.title} </h1>
-    <img src="./assets/ecom.jpeg" alt="">
+    <img src="${post.urlToImage}" alt="">
     <p> ${post.content} </p>
     `
 
@@ -33,7 +33,7 @@ const filterPostsByComments = async() => {
 
         const templatePopular = `
         <div class="recent-post">
-        <img src="./assets/analy.jpeg" alt="">
+        <img src="${post.urlToImage}" alt="">
         <h3>${post.title}</h3>
         </div>
         `
@@ -54,7 +54,7 @@ const filterPostsByLikes = async() => {
 
         const templateLike = `
         <div class="recent-post">
-        <img src="./assets/analy.jpeg" alt="">
+        <img src="${post.urlToImage}" alt="">
         <h3>${post.title}</h3>
         </div>
         `
@@ -74,7 +74,7 @@ const filterPostsByRecent = async() => {
 
         const templateRecent = `
         <div class="recent-post">
-        <img src="./assets/analy.jpeg" alt="">
+        <img src="${post.urlToImage}" alt="">
         <h3> ${post.title} </h3>
         </div>
         `
