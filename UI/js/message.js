@@ -19,7 +19,7 @@ const createMessage = async(e) => {
         body: JSON.stringify(message),
         headers: { 'Content-Type': 'application/json' }
     })
-    window.location.replace('/UI/index.html')
+    window.location.replace('/index.html')
 }
 
 contactForm.addEventListener('submit', createMessage)
